@@ -1,0 +1,22 @@
+{
+  "name": "react-babel-demo",
+  "version": "1.0.0",
+  "description": "It's a demo for react with es6 and babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AllenFang",
+  "license": "MIT",
+  "dependencies": {
+    "react": "~0.13.1",
+    "flux": "~2.0.1"
+  },
+  "devDependencies": {
+    "browserify": "~9.0.3",
+    "babelify": "~5.0.4",
+    "gulp": "~3.8.11",
+    "gulp-browserify": "~0.5.1",
+    "gulp-rename": "~1.2.0"
+  }
+}
