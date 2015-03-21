@@ -3,7 +3,7 @@ It's a demo for react with es6 and babel.
 
 It's a simple react example written by es6(ECMAScript6)   
 
-and use Babel to es6 code to 5.   
+and use Babel to transfer es6 code to 5.   
 
 ### Development
 ```
