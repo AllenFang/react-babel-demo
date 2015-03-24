@@ -1,5 +1,5 @@
 # react-babel-demo
-It's a demo for react with es6 and babel.
+It's a demo for react/flux with es6 and babel.
 
 It's a simple react example written by es6(ECMAScript6)   
 
